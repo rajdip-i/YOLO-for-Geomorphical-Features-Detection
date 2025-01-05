@@ -23,6 +23,6 @@ if uploaded_file is not None:
     st.subheader("Output image:")
    # Saving images
     for i, image in enumerate(detections):
-        image.save(f"image_{i}.png")  # Replace this with the appropriate method for saving your image data
+        image.save(f"image_{i}.png")  
         #image.show(f"image_{i}.png")
         st.image(f"image_{i}.png",caption="detected geographical features", use_column_width=True)
