@@ -78,12 +78,12 @@ This dataset contains 876 image pairs from 6 natural feature categories: basins,
 - Detected features include valleys, ridges, and basins.
 - Sample output from the Streamlit app:
 
-![Detection Example](images/1.png)
-![Detection Example](images/2.png)
-![Detection Example](images/3.png)
-![Detection Example](images/4.png)
-![Detection Example](images/5.png)
-![Detection Example](images/6.png)
-![Detection Example](images/7.png)
-![Detection Example](images/8.png)
+![Detection Example](Images/1.png)
+![Detection Example](Images/2.png)
+![Detection Example](Images/3.png)
+![Detection Example](Images/4.png)
+![Detection Example](Images/5.png)
+![Detection Example](Images/6.png)
+![Detection Example](Images/7.png)
+![Detection Example](Images/8.png)
 
