@@ -3,7 +3,20 @@
 This project implements a deep learning-based approach to detect geomorphological features such as valleys, basins, ridges, and more from satellite images using the YOLO (You Only Look Once) object detection architecture. It includes data preprocessing, augmentation, training, and a user-friendly Streamlit-based web interface for inference.
 
 ---
+## Demo Screenshots
 
+- Detected features include valleys, ridges, and basins.
+- Sample output from the Streamlit app:
+
+![Detection Example](Images/1.png)
+![Detection Example](Images/2.png)
+![Detection Example](Images/3.png)
+![Detection Example](Images/5.png)
+![Detection Example](Images/4.png)
+![Detection Example](Images/6.png)
+![Detection Example](Images/7.png)
+![Detection Example](Images/8.png)
+---
 ## Motivation
 
 Accurate detection of geomorphological features is critical for environmental monitoring, disaster risk assessment, and urban planning. This project automates feature detection from satellite imagery, reducing manual effort and enabling large-scale analysis.
@@ -73,17 +86,4 @@ This dataset contains 876 image pairs from 6 natural feature categories: basins,
 
 ---
 
-## Results
-
-- Detected features include valleys, ridges, and basins.
-- Sample output from the Streamlit app:
-
-![Detection Example](Images/1.png)
-![Detection Example](Images/2.png)
-![Detection Example](Images/3.png)
-![Detection Example](Images/5.png)
-![Detection Example](Images/4.png)
-![Detection Example](Images/6.png)
-![Detection Example](Images/7.png)
-![Detection Example](Images/8.png)
 
