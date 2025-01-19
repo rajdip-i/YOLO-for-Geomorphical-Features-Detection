@@ -5,7 +5,6 @@ This project implements a deep learning-based approach to detect geomorphologica
 ---
 ## Demo Screenshots
 
-- Detected features include valleys, ridges, and basins.
 - Sample output from the Streamlit app:
 
 ![Detection Example](Images/1.png)
