@@ -1,7 +1,7 @@
 # Geomorphological Features Detection
 
 This project implements a deep learning-based approach to detect geomorphological features such as valleys, basins, ridges, and more from satellite images using the YOLO (You Only Look Once) object detection architecture. It includes data preprocessing, augmentation, training, and a user-friendly Streamlit-based web interface for inference.
-
+ 
 ---
 ## Demo Screenshots
 
